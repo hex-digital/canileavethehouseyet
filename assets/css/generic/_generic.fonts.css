@@ -1,0 +1,27 @@
+/* ==========================================================================
+   #FONTS
+   ========================================================================== */
+
+/**
+ * All raw file fonts should be included here.
+ */
+
+@font-face {
+    font-family: HeimatSans;
+    font-style: normal;
+    font-weight: 400;
+    src: url('../../fonts/heimat-sans/HeimatSans.eot');
+    src:
+            url('../../fonts/heimat-sans/HeimatSans.eot?#iefix') format('embedded-opentype'),
+            url('../../fonts/heimat-sans/HeimatSans.woff') format('woff');
+}
+
+@font-face {
+    font-family: HeimatSans;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../../fonts/heimat-sans/HeimatSansBold.eot');
+    src:
+            url('../../fonts/heimat-sans/HeimatSansBold.eot?#iefix') format('embedded-opentype'),
+            url('../../fonts/heimat-sans/HeimatSansBold.woff') format('woff');
+}

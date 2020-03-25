@@ -1,0 +1,9 @@
+:root {
+    --color-black: #121212;
+    --color-white: #fff;
+    --color-hex-blue: #2eefef;
+    --color-hex-red: #ff5143;
+
+    --theme-primary: var(--color-hex-blue);
+    --theme-secondary: var(--color-hex-red);
+}
